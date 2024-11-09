@@ -1,0 +1,32 @@
+.header{
+    height: 80px;
+    background-color: blueviolet;
+    width: 910px;
+    text-align: center;
+
+
+}
+.sidebor{
+    width: 200px;
+    background-color: aquamarine;
+    height: 280px;
+    text-align: center;
+}
+.Home{
+    height: 280px;
+    background-color: chocolate;
+    width: 692px;
+    float: right;
+    position: absolute ;
+    right: 0;
+    top: 88px;
+    text-align: center;
+
+}
+.Footer{
+    height: 80px;
+    background-color: rebeccapurple;
+    width: 910px;
+    text-align: center;
+
+}
